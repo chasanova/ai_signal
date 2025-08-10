@@ -1,0 +1,4 @@
+symbol,timeframe,signal,date,time,expiry_minutes
+EURUSD,M15,BUY,2025-08-10,14:30,60
+GBPUSD,H1,SELL,2025-08-10,14:00,180
+XAUUSD,M5,BUY,2025-08-10,14:45,30
