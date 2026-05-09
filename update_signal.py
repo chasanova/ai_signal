@@ -19,7 +19,7 @@ def get_signal(symbol):
 
 # Update CSV
 symbols = ["XAUUSD", "EURUSD", "GBPUSD"]
-file_path = "ai_signal.csv" # Pastikan nama file sesuai dengan yang ada di folder Anda
+file_path = "ai_signal.csv"
 
 data = []
 for sym in symbols:
