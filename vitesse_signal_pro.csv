@@ -1,3 +1,2 @@
-Pair,Timestamp,Action,Price,Recovery,NewsImpact
-XAUUSD,2026-05-10 12:00,WAIT,0.0,0.0,LOW
-
+Pair,Timestamp,Action,Price,SL_ATR,TP_Target,MarketMode,DailySafeLimit
+XAUUSD,2026-05-10 12:45,BUY,0.0,2.0,2.0,DYNAMIC,5.0
