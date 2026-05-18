@@ -1,4 +1,1 @@
-symbol,timeframe,signal,date,time,expiry_minutes,ea
-XAUUSD,M15,WAIT,2026-05-18,02:33,60,SmartProV7
-EURUSD,M15,WAIT,2026-05-18,02:33,60,SmartProV7
-GBPUSD,M15,WAIT,2026-05-18,02:33,60,SmartProV7
+BUY,2026-05-18T12:45:00Z
