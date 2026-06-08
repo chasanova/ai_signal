@@ -18,7 +18,7 @@ def get_signal(symbol):
         return "WAIT"
 
 # Update CSV
-symbols = ["XAUUSD", "EURUSD", "GBPUSD"]
+symbols = ["XAUUSD"]
 file_path = "ai_signal.csv"
 
 data = []
