@@ -26,7 +26,7 @@ for sym in symbols:
     sig = get_signal(sym)
     data.append({
         "symbol": sym,
-        "timeframe": "M15",
+        "timeframe": "M5",
         "signal": sig,
         "date": datetime.now().strftime("%Y-%m-%d"),
         "time": datetime.now().strftime("%H:%M"),
