@@ -1,4 +1,2 @@
 symbol,timeframe,signal,date,time,expiry_minutes,ea
-XAUUSD,M5,WAIT,2026-06-08,00:01,60,SmartProV7
-EURUSD,M15,WAIT,2026-06-08,00:01,60,SmartProV7
-GBPUSD,M15,WAIT,2026-06-08,00:01,60,SmartProV7
+XAUUSD,M5,WAIT,2026-06-08,00:01,60,Astronaci
