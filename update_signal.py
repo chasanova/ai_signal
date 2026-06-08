@@ -31,7 +31,7 @@ for sym in symbols:
         "date": datetime.now().strftime("%Y-%m-%d"),
         "time": datetime.now().strftime("%H:%M"),
         "expiry_minutes": 60,
-        "ea": "SmartProV7"
+        "ea": "Astronaci"
     })
 
 df = pd.DataFrame(data)
